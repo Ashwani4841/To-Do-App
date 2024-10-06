@@ -22,7 +22,7 @@ Installation
 No installation is required. Just open the index.html file in a web browser.
 
 App link-
-https://imaginative-sherbet-850261.netlify.app
+https://ephemeral-raindrop-af11ec.netlify.app
 
 Contributing
 Feel free to fork this repository, create a new branch, and submit a pull request with improvements or new features!
