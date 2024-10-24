@@ -22,7 +22,7 @@ Installation
 No installation is required. Just open the index.html file in a web browser.
 
 App link-
-https://ephemeral-raindrop-af11ec.netlify.app
+https://to-do-app-4841.netlify.app/
 
 Contributing
 Feel free to fork this repository, create a new branch, and submit a pull request with improvements or new features!
