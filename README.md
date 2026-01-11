@@ -7,7 +7,7 @@ Mark Complete: Click on tasks to mark them as completed. Completed tasks are vis
 Delete Tasks: Easily remove tasks from the list with a delete button.
 Edit Tasks: Easily edit tasks from the list with a edit button.
 
-Technologies Used
+Technologies Used:-
 HTML: Structure of the application.
 CSS: Styling for a user-friendly interface.
 JavaScript: Logic for adding, deleting, and marking tasks as complete.
