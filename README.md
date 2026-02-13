@@ -18,7 +18,7 @@ Open index.html in your preferred web browser.
 Start adding tasks by typing in the input box and pressing enter or clicking the add button.
 Click on a task to mark it as complete or use the delete button to remove it.
 
-Installation
+Installation:-
 No installation is required. Just open the index.html file in a web browser.
 
 App link-
