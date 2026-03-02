@@ -1,4 +1,4 @@
-To-Do App
+To-Do App:-
 A minimal and efficient To-Do List application built with HTML, CSS, and JavaScript. This app allows users to add, mark as complete, edit, and delete tasks to manage their daily tasks and boost productivity.
 
 Features
